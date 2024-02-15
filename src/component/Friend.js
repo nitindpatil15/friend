@@ -10,7 +10,7 @@ const Friend = () => {
           <h2 className="text-center text-success">Hey ! My Dear Friends</h2>
           <p className="text-dark text-center my-4" style={{fontSize:" 22px"}}>
           I want to say thank you for being with me on our journey and helping me whenever I face problems.
-           Your support means a lot to me. Thanks❤️!
+           Your support means a lot to me. <br />Thanks❤️!
           </p>
         </div>
       </div>
