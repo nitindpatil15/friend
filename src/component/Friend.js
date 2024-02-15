@@ -15,7 +15,7 @@ const Friend = () => {
         </div>
       </div>
       <div className="container">
-        <img src={friend} alt="friend" className="img" style={{width:"30%",minWidth:"200px"}} />
+        <img src={friend} alt="friend" className="img" style={{width:"35%",minWidth:"200px"}} />
       </div>
       <h1 className="text-center text-primary my-5">❤️Thank You Buddy❤️ </h1>
       
